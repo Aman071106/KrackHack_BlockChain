@@ -269,13 +269,10 @@ graph TD
 
 ## 📞 Contact
 
-Project Link: [https://github.com/your-username/BlockOps](https://github.com/your-username/BlockOps)
+Project Link: [https://github.com/Aman071106/KrackHack_BlockChain]
 
 ---
 <div align="center">
 <p>Made with ❤️ by BlockOps Team</p>
 
-<a href="https://github.com/your-username/BlockOps/stargazers">
-    <img src="https://img.shields.io/github/stars/your-username/BlockOps?style=social" alt="Github Stars">
-</a>
 </div>
