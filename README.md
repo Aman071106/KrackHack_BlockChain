@@ -155,7 +155,8 @@ graph TD
 - Secondary market operations
 - Anti-bot protection mechanisms
 - Royalty distribution system
-
+- 
+## 🏃‍♂️ Running Deployed Site: [https://web3app-puce.vercel.app/]
 ## 🏃‍♂️ Running Locally
 
 1. **Start Development Server**
