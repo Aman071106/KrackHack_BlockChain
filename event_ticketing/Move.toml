@@ -1,0 +1,13 @@
+[package]
+name = "BlockChain_Ticketing_v3"
+version = "0.1.0"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "testnet", subdir = "aptos-move/framework/aptos-framework" }
+AptosToken = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "testnet", subdir = "aptos-move/framework/aptos-token" }
+
+[addresses]
+EventTicketing = "0x46471c5f47f8a55bbd930a11f7796b18140a40540773388fafd42da916301697"
+aptos_framework = "0x1"
+aptos_token = "0x3"  # Added for token functionality
+std = "0x1"
